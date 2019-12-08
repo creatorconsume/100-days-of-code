@@ -12,7 +12,7 @@
 
 **Thoughts:** I had doubts about the CS50 class, but not anymore. The professor's enthusiasm is contagious, and the first principles approach to computer programming is exactly what I've needed to fill in my patchy understanding of computer science and programming. I've been having a lot of trouble with setting this server up. Many sites are blocked, so I'm always having to navigate that issue. In a way, programming has been teaching me to get over my frustrations. There will always be problems with my code, and I will always be problem solving, so I need to force myself to feel calm when things go wrong.
 
-## Day 3: 12-8-SUN ##
+### Day 3: 12-8-SUN 
 
 **Today's Progress**: Finished first lecture, HarvardX CS50 Intro to CompSci. Finished building my server.
 
