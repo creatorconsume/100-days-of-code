@@ -16,4 +16,20 @@
 
 **Today's Progress**: Finished first lecture, HarvardX CS50 Intro to CompSci. Finished building my server.
 
-**Thoughts**: It felt great to finish the server and have it up and running successfully. The programs that I needed to install on it are all working perfectly. I'm loving the Intro to CompSci class and finding it useful. The #100DaysOfCode public challenge has helped me to stay accountable to myself and to the public, even though I don't really have any followers. 
+**Thoughts**: It felt great to finish the server and have it up and running successfully. The programs that I needed to install on it are all working perfectly. I'm loving the Intro to CompSci class and finding it useful. The #100DaysOfCode public challenge has helped me to stay accountable to myself and to the public, even though I only have a handful of followers. 
+
+### Day 4: 12-9-MON 
+
+**Today's Progress**: Almost done with second lecture, HarvardX CS50 Intro to CompSci. Decided first project.
+
+**Thoughts**: I'm planning my first real programming project: A Linux desktop app that displays the current English Premier League table. I'm not sure how to build a GUI, or how to write the backend of an app like this, but I'm interested in the project and that will push me to learn.
+
+### Day 5: 12-10-TUE 
+
+**Today's Progress**: Gave up on HarvardX CS50 for now. Planning Structure of EPL Desktop App.
+
+**Thoughts**: I gave up on the CS50 class for a few reasons. First, I felt like I was spending too much time watching the lectures, and not enough time actually programming. After I watched the lectures, I still had to go through and teach myself the code for the homework. It would have been more effective for me to skip the lectures, and just go straight to the homework. The second reason I quit is that I'm not currently interested in learning HTML or C or C++. I just want to stick to Python, as I need it for my master's thesis to do data analysis. 
+
+It was a great lecture, and I wish I had time to spend with it, but I don't. I think I'll watch the lectures as entertainment when I'm washing dishes or relaxing, so I can still get some use out of it. 
+
+I'll be using QTIO for the GUI on my English Premier League (EPL) table project. It looks like I'll be able to design the app graphically, and convert that into code. I like this approach. I don't want to have to fiddle with numbers to move symbols around and position them on the screen. I'd rather design a GUI by looking at it than writing code. I will still learn the code, and the future will tell if this is a smart approach. Right now I'm going with it, and it may be a mistake, but at least I'm moving towards the goal.
