@@ -77,9 +77,10 @@ Found an issue with my epub copy of “Think Python.” The publisher has a free
 
 ### Day 12: 12-18-WED 
 
-**Today's Progress**: Learning about APIs. Focusing on getting data from football-data.org
+**Today's Progress**: Learning about APIs. Figured out how to pull the data I need (Premier League Teams, scores, upcoming matches, etc.) but still need to sort it legibly.
 
 **Thoughts**: Used this website to learn APIs: https://realpython.com/python-requests/#getting-started-with-request
+Focusing on getting football data from football-data.org
 
 
 ### Day xx: xx-xx-xx 
