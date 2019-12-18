@@ -70,12 +70,19 @@ Found an issue with my epub copy of “Think Python.” The publisher has a free
 
 ### Day 11: 12-17-TUE 
 
-**Today's Progress**: 
+**Today's Progress**: Found a website with free soccer data for my desktop app: http://football-data.org
+- Continuing to appreciate "Automate the Boring Stuff with Python".
 
-**Thoughts**:
-
+**Thoughts**: I was excited to find a great dataset in football-data.org. Looking forward to using it tomorrow
 
 ### Day 12: 12-18-WED 
+
+**Today's Progress**: Learning about APIs. Focusing on getting data from football-data.org
+
+**Thoughts**: Used this website to learn APIs: https://realpython.com/python-requests/#getting-started-with-request
+
+
+### Day xx: xx-xx-xx 
 
 **Today's Progress**: 
 
